@@ -4,7 +4,6 @@ programa
 	funcao inicio()
 	{
 		inteiro inicial = 233
-		inteiro final , inicial2, final2
 		
 		faca{
 			escreva( inicial + "\n")
@@ -28,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 349; 
+ * @POSICAO-CURSOR = 61; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
